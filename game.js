@@ -1,5 +1,5 @@
 // Canvas Asteroids
-//
+//canvi per fer proves
 // Copyright (c) 2010 Doug McInnes
 //
 
